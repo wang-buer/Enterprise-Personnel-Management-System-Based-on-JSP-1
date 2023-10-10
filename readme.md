@@ -11,7 +11,11 @@
 高级用户：工作计划管理、日志审核管理、工作跟踪管理等
 
 员工：工作计划/跟踪记录/考核信息的查看、工作日志的增加查看等
+## 获取方式
 
+扫描下方，回复关键词  ：**员工** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 2、项目技术
 
